@@ -1,0 +1,22 @@
+Your order is mostly right, but there are two gaps: one step should move earlier, and one important step is missing.
+
+What to change
+
+Research comes first, briefly. Spend 3–4 days watching Indian fashion creators before designing Mira. What you see (which looks, settings, and styles perform well) should shape how Mira looks and dresses. After that, research isn’t a one-time step; it becomes part of your weekly routine.
+The missing step: test the product workflow. This is the hardest technical part of an AI fashion page. Before writing scripts, check that you can take one real product (say, a kurta from Myntra) and show it on Mira so it looks exactly like the real item: same colour, print, and fit. If this doesn’t work well, the whole page won’t, so find out early.
+
+Better order
+
+Study the niche (3–4 days). Follow 15–20 Indian fashion and budget-styling creators, save the Reels that hooked you, and note their hooks, prices, and formats.
+Create Mira. Generate her face and look, then test consistency: 20 images in different outfits and poses that clearly show the same person.
+Test the try-on workflow. Put 3–5 real products on Mira and compare them side by side with the product photos. Keep practicing until they match.
+Pick her voice. Choose one AI voice and save the settings.
+Make 3 practice videos. Research products → write the script → create visuals → voiceover → edit in CapCut. Don’t post these; use them to learn the process.
+Set up accounts and start posting. Same handle on Instagram and YouTube, a simple bio, and 5 posts a week.
+Sign up for affiliate programs. Once you’re posting regularly, join Amazon Associates and an Indian affiliate app that covers Myntra, Ajio and Flipkart. Check each program’s current requirements, since some expect an active account or a sales threshold.
+
+After launch, a weekly loop
+
+Research trends and sales → pick products → write 5 scripts → create and edit on the weekend → post during the week → check which videos had the best watch time and saves → repeat.
+
+Expect steps 1–5 to take about 3–4 weeks alongside your job. Don’t rush step 3; it’s what makes Mira trustworthy.
